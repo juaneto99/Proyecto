@@ -2,7 +2,7 @@ title: Proyecto
 description: a jekyll theme for my project use
 author: Juan Salvatierra
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: juan.salvatierra1999@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -37,7 +37,7 @@ social:
   name: Shangzhi Huang
   links:
     - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
+    - https://www.facebook.com/juan.salvatierra.3551
     - https://github.com/ngzhio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+lang: es
