@@ -7,6 +7,7 @@ author:
   - Bart Simpson
   - Nelson Mandela Muntz
 ---
+Mi experiencia con GitHub Cuando me propusieron realizar un blog como Proyecto para mi clase, enseguida pense que seria muy fácil diseñarlo, de solo cambiar cosas y ya estaria pero me equivoque. Nunca me espere que crear un blog con ayuda de GitHub tendria que usar codigos
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
