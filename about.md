@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+**Juan Salvatierra**
+Soy un estudiante de la Universidad de Guayaquil que sigue la carrera de Ingeniera en Software
