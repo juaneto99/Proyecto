@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
-author: Shangzhi Huang
-date: 2020-03-11 18:42:53 +0800
+title: hello everyone, welcome
+author: Juan Salvatierra
+date: 2020-08-08 18:42:53 +0800
 tags: [test, hello]
 ---
 
-Hello World! This is a post for testing the looking of Hamilton.
+hello everyone, welcome to my first post
