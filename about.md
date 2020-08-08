@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Juan Salvatierra
 permalink: /about/
 ---
 
