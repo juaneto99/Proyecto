@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Juan Salvatierra
-permalink: /about/
+permalink: /acerca de/
 ---
 
 
