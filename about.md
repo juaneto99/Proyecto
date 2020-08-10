@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 
-Soy un estudiante de la Universidad de Guayaquil que sigue la carrera de Ingeniera en Software
+Juan Rogelio Salvatierra Mora nacio el 11 de diciembre de 1999, estudiante de la Universidad de Guayaquil que sigue la Carrera de Ing. Software
