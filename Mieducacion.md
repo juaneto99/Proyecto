@@ -1,5 +1,5 @@
 ---
 layout: archive-years
-title: Years
+title: Mi Educacion
 permalink: /Mieducacion/
 ---
