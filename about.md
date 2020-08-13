@@ -1,8 +1,17 @@
 ---
 layout: page
-title: Juan Salvatierra
+title: 
 permalink: /about/
 ---
 
+**¿Quien soy?**
 
-Juan Rogelio Salvatierra Mora nacio el 11 de diciembre de 1999 en la ciudad de Guayaquil, estudiante de la Universidad de Guayaquil que sigue la Carrera de Ing. Software
+Soy Juan Salvatierra un chico que nació el 11 de Diciembre en 1999 en la ciudad de Guayaquil-Ecuador, actualmente residente del sector la Ladrillera.
+
+
+
+**¿Por qué estudio Ingeniería en Software?**
+
+Porque desde pequeño me he sentido atraído por la tecnología, software y el hardware.
+Al principio mi aspiración era estudiar Ingeniería en Sistema Computacionales pero la Universidad de Guayaquil no tenía a su disposición la carreara así que me pareció interesante coge la carrera de Ingeniería en Software.
+
