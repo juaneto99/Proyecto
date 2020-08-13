@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies
+layout: archive-years
 type: tags
 title: Tags
 permalink: /tags/
