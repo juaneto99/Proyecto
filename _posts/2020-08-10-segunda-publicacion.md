@@ -1,6 +1,6 @@
 ---
 layout: post
-title:# Los lenguajes de programación mejor pagados de Latinoamérica
+title: Los lenguajes de programación mejor pagados de Latinoamérica
 author: Juan Salvatierra
 date: 2020-08-10 10:56:53 +0800
 tags: [test, hello]
