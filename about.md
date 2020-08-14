@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-**¿Quien soy?**
+# **¿Quien soy?**
 
 Soy Juan Rogelio Salvatierra Mora nací el 11 de Diciembre en 1999 en la ciudad de Guayaquil-Ecuador, actualmente residente del sector la Ladrillera.
 
