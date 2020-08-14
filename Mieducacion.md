@@ -13,3 +13,9 @@ La primaria la inicie en la institución particular "Ana Rosa Sánchez de Bowen"
 
 Mis estudios de colegio los realice en la institución "Antonio Flores Jijón" y de ahí los termine en la institucion "Violeta Luna Carrera".
 
+
+
+#**Universidad**
+
+Actualmente sigo la carrera de Ingeniería en Software, voy cursando el segundo semestre.
+
