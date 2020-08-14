@@ -1,6 +1,6 @@
 ---
 layout: post
-title:# ¿Qué programadores son los que más demanda el mercado?
+title: ¿Qué programadores son los que más demanda el mercado?
 author: Juan Salvatierra
 date: 2020-08-13 18:42:53 +0800
 tags: [test, hello]
