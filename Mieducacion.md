@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Mi Educacion
 permalink: /Mieducacion/
 ---
