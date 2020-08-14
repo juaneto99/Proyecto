@@ -6,6 +6,8 @@ date: 2020-08-10 10:56:53 +0800
 tags: [test, hello]
 ---
 
+![un gatito]({{ site.baseurl }}/imagen/muestra.jpg)
+
 La programación se hace cada vez más importante gracias a los avances tecnológicos, y por ende los conocedores de esta se vuelven más apetecidos por las organizaciones, quienes a diario están en búsqueda de nuevos perfiles con conocimientos en los distintos leguajes de programación.
 
 Sin embargo, el dilema de los desarrolladores está en cuál lenguaje de programación enfocarse, pues estos deben elegir entre los más de 800 cuál será el más conveniente teniendo en cuenta importantes factores tales como la alta demanda laboral, los lenguajes de programación mejor pagados y, por supuesto, su gusto personal y habilidades.
