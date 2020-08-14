@@ -43,4 +43,4 @@ Los analistas de RedMonk, en su último análisis realizado en junio del 2017, n
 -Matlab
 
 
-Referencia:tps://www.nextu.com/blog/lenguajes-de-programacion-latinoamerica/
+Referencia: https://www.nextu.com/blog/lenguajes-de-programacion-latinoamerica/
