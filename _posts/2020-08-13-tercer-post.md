@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qué programadores son los que más demanda el mercado
+title:# ¿Qué programadores son los que más demanda el mercado?
 author: Juan Salvatierra
 date: 2020-08-13 18:42:53 +0800
 tags: [test, hello]
@@ -12,7 +12,7 @@ entre muchos otros aspectos, generan la demanda de una enorme cantidad de desarr
 Se trata, muchas veces, de un gran desafío para los departamentos de Recursos Humanos, que deben aprender a enfocarse en habilidades muy específicas –que son indispensables 
 a la hora de realizar la búsqueda de ingenieros en sistemas– para poder así seleccionar a los mejores talentos del mercado y asegurarse de que estos generen un valor agregado, aportando un servicio distintivo.
 
-Tendencias. En los últimos años, los avances tecnológicos demostraron no solo revolucionar la industria sino, además, no tomarse vacaciones, por lo que mantenerse a la vanguardia de las tendencias requiere capacitación constante y de calidad para los desarrolladores, pero también para los reclutadores encargados de seleccionar a los nuevos colaboradores.
+En los últimos años, los avances tecnológicos demostraron no solo revolucionar la industria sino, además, no tomarse vacaciones, por lo que mantenerse a la vanguardia de las tendencias requiere capacitación constante y de calidad para los desarrolladores, pero también para los reclutadores encargados de seleccionar a los nuevos colaboradores.
 
 BairesDev es una firma especialista en la captación de los mejores talentos: cuenta con el Top 1% IT talent de América Latina, gracias a un proceso de selección que consta de siete pasos diagramados para incorporar solo a los ingenieros de sistemas más destacados y capacitados del mercado, lo cual tiene como resultado equipos profesionales altamente calificados. Pablo Azorin, co-fundador y Chief Technology Officer de la empresa, explica algunas de las habilidades que hoy buscan en sus talentos, y que los llevó a ser, durante cuatro años consecutivos, la compañía de software de mayor crecimiento en Latinoamérica: “La inteligencia artificial es una tecnología que viene en constante crecimiento y promete explotar su potencial en el corto plazo”.
 
