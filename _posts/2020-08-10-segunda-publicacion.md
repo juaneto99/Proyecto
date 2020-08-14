@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LOS LENGUAJES DE PROGRAMACION MEJOR PAGADOS DE LATINOAMERICA
+title:# Los lenguajes de programación mejor pagados de Latinoamérica
 author: Juan Salvatierra
 date: 2020-08-10 10:56:53 +0800
 tags: [test, hello]
@@ -17,28 +17,28 @@ Si eres desarrollador y deseas experimentar con un nuevo lenguaje de programaci�
 
 Los analistas de RedMonk, en su último análisis realizado en junio del 2017, nos permiten conocer la situación actual en este mercado gracias a un listado que contiene los 22 lenguajes de programación más utilizados en el mundo. Los datos son obtenidos desde GitHub y Stack Overflow.
 
-JavaScript.
-Java
-Python
-PHP
-C #
-C ++
-CSS
-Ruby
-C
-Objetivo-C
-Swift
-Shell
-Scala
-R
-Go
-Perl:
-TypeScript
-PowerShell
-Haskell
-CoffeeScript
-Lua
-Matlab
+-JavaScript.
+-Java
+-Python
+-PHP
+-C #
+-C ++
+-CSS
+-Ruby
+-C
+-Objetivo-C
+-Swift
+-Shell
+-Scala
+-R
+-Go
+-Perl:
+-TypeScript
+-PowerShell
+-Haskell
+-CoffeeScript
+-Lua
+-Matlab
 
 
 Referencia:tps://www.nextu.com/blog/lenguajes-de-programacion-latinoamerica/
