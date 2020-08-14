@@ -6,6 +6,7 @@ date: 2020-08-13 18:42:53 +0800
 tags: [test, hello]
 ---
 
+! [dos] ({{site.baseurl}} / imagen / 2.jpg)
 
 Los imparables avances tecnológicos y el hecho de que los servicios IT ocupen actualmente el centro de la escena empresarial, 
 entre muchos otros aspectos, generan la demanda de una enorme cantidad de desarrolladores, y no siempre es sencillo encontrarlos, sobre todo a aquellos más destacados. 
