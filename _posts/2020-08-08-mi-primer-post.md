@@ -1,8 +1,6 @@
 ---
 layout: page
 title: 
-author: 
-date: 
 tags: [test, hello]
 ---
  
