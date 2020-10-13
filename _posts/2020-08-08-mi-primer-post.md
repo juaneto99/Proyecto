@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-tags: [test, hello]
+permalink: /posts/
 ---
  
 ![un gatito]({{ site.baseurl }}/imagen/git.jpg)
