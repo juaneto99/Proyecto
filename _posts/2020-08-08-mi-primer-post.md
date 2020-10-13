@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: 
-tags: [test, hello]
 ---
  
 ![un gatito]({{ site.baseurl }}/imagen/git.jpg)
